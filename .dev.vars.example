@@ -1,0 +1,4 @@
+DATABASE_URL=
+JWT_SECRET=your-jwt-secret-here
+ADMIN_API_KEY=your-admin-api-key-here
+FPX_ENDPOINT=http://localhost:8788/v1/traces
